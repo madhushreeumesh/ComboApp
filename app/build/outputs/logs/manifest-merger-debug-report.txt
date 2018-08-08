@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7376366598993aa34d6c030583228450\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9e3744acbb54ac7f166f6aac74cab177\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fa3ee35487a594f5b8324496b2c6b876\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\336f27643c0d7cc5cd985ee6d1c75e41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\559b5c7b379c878f6cab122b59c6db8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\78dbfaad504a11b442cf70c70f9802e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\08e8945b2b06d6dfd89db448a9e52b20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\caec6304fb636327003786e36033fa01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f9144a03d04004914e420e66be05ec7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e875cea3b608ec46aff9a58f5381bd29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b4b8dc1e7dc2c23f0d85c4b5f67700cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5b8fffe11b4e6eb26ed5e48f1f0cc499\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0e5dae1a86360dee5d0aa66ca270edfb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6e8ad43f3beee448cf6bc70fedf0bd57\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\39b11b1d298e0659cddeca6332b31949\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c458b4dd5bb9d2719df5769e902319ae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a3071e08f626d125cba35cc86bd8c4f9\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fa3ee35487a594f5b8324496b2c6b876\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fa3ee35487a594f5b8324496b2c6b876\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:11:9-47
+activity#com.example.aakash.comboapp.HomeActivity
+ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:theme
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7376366598993aa34d6c030583228450\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7376366598993aa34d6c030583228450\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9e3744acbb54ac7f166f6aac74cab177\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9e3744acbb54ac7f166f6aac74cab177\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fa3ee35487a594f5b8324496b2c6b876\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fa3ee35487a594f5b8324496b2c6b876\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\336f27643c0d7cc5cd985ee6d1c75e41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\336f27643c0d7cc5cd985ee6d1c75e41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\559b5c7b379c878f6cab122b59c6db8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\559b5c7b379c878f6cab122b59c6db8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\78dbfaad504a11b442cf70c70f9802e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\78dbfaad504a11b442cf70c70f9802e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\08e8945b2b06d6dfd89db448a9e52b20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\08e8945b2b06d6dfd89db448a9e52b20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\caec6304fb636327003786e36033fa01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\caec6304fb636327003786e36033fa01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f9144a03d04004914e420e66be05ec7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f9144a03d04004914e420e66be05ec7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e875cea3b608ec46aff9a58f5381bd29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e875cea3b608ec46aff9a58f5381bd29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b4b8dc1e7dc2c23f0d85c4b5f67700cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b4b8dc1e7dc2c23f0d85c4b5f67700cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5b8fffe11b4e6eb26ed5e48f1f0cc499\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5b8fffe11b4e6eb26ed5e48f1f0cc499\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0e5dae1a86360dee5d0aa66ca270edfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0e5dae1a86360dee5d0aa66ca270edfb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6e8ad43f3beee448cf6bc70fedf0bd57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6e8ad43f3beee448cf6bc70fedf0bd57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\39b11b1d298e0659cddeca6332b31949\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\39b11b1d298e0659cddeca6332b31949\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c458b4dd5bb9d2719df5769e902319ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c458b4dd5bb9d2719df5769e902319ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a3071e08f626d125cba35cc86bd8c4f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tapan Joshi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a3071e08f626d125cba35cc86bd8c4f9\AndroidManifest.xml:20:5-44
+INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Madhushree\AndroidProjects\ComboApp-master\ComboApp\app\src\main\AndroidManifest.xml
